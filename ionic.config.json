@@ -1,0 +1,7 @@
+{
+  "name": "primerappclas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
